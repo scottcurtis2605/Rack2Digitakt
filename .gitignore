@@ -1,0 +1,17 @@
+# Export output
+R2D_export/
+digitakt_export/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
